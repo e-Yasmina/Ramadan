@@ -1,0 +1,23 @@
+.hijri-date {
+    font-size: 12px;
+    color: #888; /* Light color */
+    font-style: italic;
+    display: inline-block;
+  }
+  .calendar-cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .gregorian-date {
+    font-weight: bold;
+  }
+  
+  .hijri-date {
+    font-size: 0.8em;
+    color: gray;
+    margin-left: 5px;
+  }
+  
